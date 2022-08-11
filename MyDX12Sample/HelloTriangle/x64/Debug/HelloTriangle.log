@@ -1,0 +1,4 @@
+﻿  Performing Custom Build Tools
+E:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: 项“Shaders\shaders.hlsl”的自定义生成成功，但尚未创建指定的输出“e:\work2022\mydx12sample\x64\debug\shaders\shaders.hlsl”。这可能会导致增量生成无法正常工作。
+  D3D12HelloTriangle.cpp
+  HelloTriangle.vcxproj -> E:\work2022\MyDX12Sample\x64\Debug\HelloTriangle.exe

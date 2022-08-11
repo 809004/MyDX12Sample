@@ -1,0 +1,2 @@
+^E:\WORK2022\MYDX12SAMPLE\HELLOTRIANGLE\SHADERS\SHADERS.HLSL
+copy Shaders\shaders.hlsl "E:\work2022\MyDX12Sample\x64\Debug\" > NUL

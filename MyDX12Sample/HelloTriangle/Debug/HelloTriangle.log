@@ -1,0 +1,8 @@
+﻿  D3D12HelloTriangle.cpp
+D3D12HelloTriangle.obj : error LNK2019: 无法解析的外部符号 _D3D12SerializeRootSignature@16，函数 "private: void __thiscall D3D12HelloTriangle::LoadAssets(void)" (?LoadAssets@D3D12HelloTriangle@@AAEXXZ) 中引用了该符号
+D3D12HelloTriangle.obj : error LNK2019: 无法解析的外部符号 _D3D12CreateDevice@16，函数 "private: void __thiscall D3D12HelloTriangle::LoadPipeline(void)" (?LoadPipeline@D3D12HelloTriangle@@AAEXXZ) 中引用了该符号
+DXSample.obj : error LNK2001: 无法解析的外部符号 _D3D12CreateDevice@16
+D3D12HelloTriangle.obj : error LNK2019: 无法解析的外部符号 _D3D12GetDebugInterface@8，函数 "private: void __thiscall D3D12HelloTriangle::LoadPipeline(void)" (?LoadPipeline@D3D12HelloTriangle@@AAEXXZ) 中引用了该符号
+D3D12HelloTriangle.obj : error LNK2019: 无法解析的外部符号 _CreateDXGIFactory2@12，函数 "private: void __thiscall D3D12HelloTriangle::LoadPipeline(void)" (?LoadPipeline@D3D12HelloTriangle@@AAEXXZ) 中引用了该符号
+D3D12HelloTriangle.obj : error LNK2019: 无法解析的外部符号 _D3DCompileFromFile@36，函数 "private: void __thiscall D3D12HelloTriangle::LoadAssets(void)" (?LoadAssets@D3D12HelloTriangle@@AAEXXZ) 中引用了该符号
+E:\work2022\MyDX12Sample\Debug\HelloTriangle.exe : fatal error LNK1120: 5 个无法解析的外部命令
